@@ -1,0 +1,6 @@
+$begin 'CacheDataVersion'
+	DataVersion=44
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	distance1='20mm'
+$end 'VariableValues'
